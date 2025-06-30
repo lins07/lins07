@@ -2,7 +2,7 @@
 
 **`Desenvolvedor back-end `**
 
-Me chamo Marcos Lins, tenho 23 anos e sou natural de Maceio. Concluí o ensino médio em pilar na escola professor athur ramos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na anhaguera. Sou apaixonada por tecnologia e decidir entrar na area da programação.
+Me chamo Marcos Lins, tenho 23 anos e sou natural de Maceio. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na anhaguera. Sou apaixonada por tecnologia e decidir entrar na area da programação.
 
 
 ---
