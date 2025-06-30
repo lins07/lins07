@@ -34,7 +34,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="250" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=lins07&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -45,7 +45,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lins07&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
