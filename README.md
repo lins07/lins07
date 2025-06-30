@@ -34,7 +34,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="250" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=lins07&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
