@@ -2,7 +2,9 @@
 
 **`Desenvolvedor back-end `**
 
-Me chamo Marcos Lins, tenho 23 anos e sou natural de Maceio. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na anhaguera. Estou iniciando minha trajetória profissional na área de tecnologia, com foco em desenvolvimento Back-End utilizando Java. Tenho me dedicado a adquirir uma base sólida em programação, boas práticas de desenvolvimento e arquitetura de sistemas. Sou uma pessoa organizada, dedicada e com facilidade para aprender, buscando minha primeira oportunidade para aplicar meus conhecimentos e crescer junto com a equipe.
+Desenvolvedor Back-End com foco em Java e Spring Boot. Experiência na construção de projetos utilizando o ecossistema Spring e interesse em ampliar conhecimentos em áreas como arquitetura de software, testes e boas práticas de desenvolvimento.
+
+Motivado por desafios que envolvem lógica, aprendizado contínuo e criação de soluções eficientes.
 ---
 
 ### 👾 Linguagens e Tecnologias
