@@ -2,9 +2,9 @@
 
 **`Desenvolvedor back-end `**
 
-Desenvolvedor Back-End com foco em Java e Spring Boot. Experiência na construção de projetos utilizando o ecossistema Spring e interesse em ampliar conhecimentos em áreas como arquitetura de software, testes e boas práticas de desenvolvimento.
+Back-end developer focused on Java and Spring Boot. Experience building projects using the Spring ecosystem and interested in expanding knowledge in areas such as software architecture, testing, and best development practices.
 
-Motivado por desafios que envolvem lógica, aprendizado contínuo e criação de soluções eficientes.
+Motivated by challenges involving logic, continuous learning, and the creation of efficient solutions.
 ---
 
 ### 👾 Linguagens e Tecnologias
